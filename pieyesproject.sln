@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pieyesproject", "pieyesproject\pieyesproject.pyproj", "{E06AACDC-EAE7-40B9-A9DE-E928BDAC6AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E06AACDC-EAE7-40B9-A9DE-E928BDAC6AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06AACDC-EAE7-40B9-A9DE-E928BDAC6AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1D7A0CC-0784-420F-BBF7-0E0409BEFD6E}
+	EndGlobalSection
+EndGlobal
